@@ -1,8 +1,8 @@
 # Site settings
 title:       Jekyllized Story
 description: "A simple tale made complicated."
-baseurl:     ""
-url:         ""
+baseurl:     "/jekyllized-story"               # the subpath of your site, e.g. /blog
+url:         ""               # the base hostname & protocol for your site
 date_format: "%b %-d, %Y"
 share-image: "/images/share.png"
 admin:      "John Doe"
@@ -13,7 +13,7 @@ admin_image: "authors/john.jpg"
 admin_bio: "Williamsburg raw denim vice art party. Pok pok sustainable +1 cray edison bulb, butcher meh master cleanse. Try-hard artisan polaroid next level kitsch adaptogen pabst coloring book 90's beard venmo jean shorts occupy. Vegan selfies seitan tofu, pop-up bushwick succulents. Narwhal enamel pin lumbersexual microdosing hella vape. Microdosing literally banh mi green juice craft beer dreamcatcher butcher. 3 wolf moon gochujang kombucha snackwave hell of chicharrones."
 admin_city: "Oakland"
 admin_state: "CA"
-
+footer_note: '&copy; Creative Directions. Theme by <a href="https://html5up.net">HTML5 UP</a>.'
 
 # Collections
 
