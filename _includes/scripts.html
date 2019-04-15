@@ -6,6 +6,11 @@
 <script src="{{ "/assets/js/swiper.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
 
+{% if site.demo_script %}
+<!--  if jekyll.environment != 'production' -->
+<script src="{{ "/assets/js/demo.js" | prepend: site.baseurl }}"></script>
+{% endif %}
+
 <!-- On Page Scripts -->
 <script>
 $(document).ready(function () {

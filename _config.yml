@@ -2,7 +2,7 @@
 title:       Jekyllized Story
 description: "A simple tale made complicated."
 baseurl:     "/jekyllized-story"               # the subpath of your site, e.g. /blog
-url:         ""               # the base hostname & protocol for your site
+url:         ""                                # the base hostname & protocol for your site
 date_format: "%b %-d, %Y"
 share-image: "/images/share.png"
 admin:        "John Doe"
@@ -14,6 +14,7 @@ admin_bio: "Williamsburg raw denim vice art party. Pok pok sustainable +1 cray e
 admin_city: "Oakland"
 admin_state: "CA"
 footer_note: '&copy; Creative Directions. Theme by <a href="https://html5up.net">HTML5 UP</a>.'
+demo_script: true                             # this loads the assets/js/demo.js for index.html
 
 # Collections
 
