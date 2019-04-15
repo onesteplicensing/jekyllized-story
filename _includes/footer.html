@@ -1,5 +1,7 @@
 <footer class="wrapper style1 align-center">
   <div class="inner">
+    {% include social_links.html %}
+    {% comment %}
     <ul class="icons">
       {% if site.twitter_username %}
       <li><a href="https://twitter.com/{{ site.twitter_username }}" class="icon style2 fab fa-twitter"><span class="label">Twitter</span></a></li>
@@ -29,6 +31,7 @@
       <li><a href="mailto:{{ site.email }}" class="icon style2 far fa-envelope"><span class="label">Email</span></a></li>
       {% endif %}
     </ul>
+    {% endcomment %}
     <p> {{ site.footer_note }}</p>
   </div>
 </footer>
