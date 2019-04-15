@@ -1,9 +1,7 @@
-Jekyllized Story by HTML5 UP and Stevo
-html5up.net | @ajlkn
-smledbetter.com | @thecoachstevo
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Jekyllized Story by [HTML5 UP](https://html5up.net/story), [Stevo](https://github.com/smledbetter), and [Creative Directions](https://creativedirections.work)
+This template is free for personal and commercial use under the [CCA 3.0 license](license.md)
 
-Jekyllized Story is a Franken-theme created mostly from HTML5 UP's [Story](https://html5up.net/story) with a drawer menu and blog layout from [Phantom](https://html5up.net/phantom), and a custom header menu. Much of the Jekyllization is based on [andrewbanchich's Jekyllized Phantom Theme](https://github.com/andrewbanchich/phantom-jekyll-theme).
+**Jekyllized Story** is a Franken-theme created mostly from HTML5 UP's [Story](https://html5up.net/story) with a drawer menu and blog layout from [Phantom](https://html5up.net/phantom), and a custom header menu. Much of the Jekyllization is based on [andrewbanchich's Jekyllized Phantom Theme](https://github.com/andrewbanchich/phantom-jekyll-theme).
 
 # Highlights:
 - Extremely modular and tweakable, and as such is entirely
@@ -33,19 +31,12 @@ without, in many cases, touching *any* CSS.
 - [habitry.com](https://habitry.com)
 - [smledbetter.com](https://smledbetter.com)
 
-Demo images** courtesy of [Pexels](https://www.pexels.com/), a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+# Technical Notes
+### Production
+	Delete index-demo.html and assets/js/demo.js when you're done messing with the demo
+	as neither are needed in production :)
 
-PS: Delete index-demo.html and assets/js/demo.js when you're done messing with the demo
-as neither are needed in production :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-Stevo
-smledbetter.com | @thecoachstevo
-
-Credits:
+# Credits:
 
 	Demo Images:
 		Pexels](https://www.pexels.com/)
