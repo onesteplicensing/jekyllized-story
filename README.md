@@ -22,7 +22,7 @@ without, in many cases, touching *any* CSS.
 ## Feature list
 * RSS feeds
 * sitemap
-
+* Multi-language support
 
 # Credits:
 
