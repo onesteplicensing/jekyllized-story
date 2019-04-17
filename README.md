@@ -23,6 +23,7 @@ without, in many cases, touching *any* CSS.
 * RSS feeds
 * sitemap
 * Multi-language support
+* [text expand](https://jekyllcodex.org/without-plugin/text-expand/)
 
 # Credits:
 
