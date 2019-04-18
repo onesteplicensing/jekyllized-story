@@ -38,11 +38,13 @@
   <div class="content">
     <h2>{{ page.spotlight.title }}</h2>
     <p>{{ page.spotlight.content}}</p>
+
     {% if page.spotlight.button.show %}
     <ul class="actions vertical">
       <li><a href="{{ page.spotlight.button.url }}" class="button">{{ page.spotlight.button.text }}</a></li>
     </ul>
     {% endif %}
+
   </div>
   <div class="image">
     <img src="{{ page.spotlight.image_url }}" alt="" />
